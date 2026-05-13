@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1207-unique-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
