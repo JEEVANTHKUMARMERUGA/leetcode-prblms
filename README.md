@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
