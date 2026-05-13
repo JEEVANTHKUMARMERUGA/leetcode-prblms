@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
