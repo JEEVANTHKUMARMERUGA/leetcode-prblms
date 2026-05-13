@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Linked List
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
