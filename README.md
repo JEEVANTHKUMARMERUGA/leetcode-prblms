@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1207-unique-number-of-occurrences) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0189-rotate-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3783-mirror-distance-of-an-integer) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
