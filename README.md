@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1207-unique-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
@@ -75,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
