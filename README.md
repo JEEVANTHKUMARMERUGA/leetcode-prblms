@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1207-unique-number-of-occurrences) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2418-sort-the-people](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
