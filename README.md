@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0189-rotate-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1732-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
