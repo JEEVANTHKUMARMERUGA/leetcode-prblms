@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1603-design-parking-system) |
 ## Database
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1920-build-array-from-permutation) |
 | [3925-concatenate-array-with-reverse](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0938-range-sum-of-bst) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
