@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1207-unique-number-of-occurrences) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1920-build-array-from-permutation) |
