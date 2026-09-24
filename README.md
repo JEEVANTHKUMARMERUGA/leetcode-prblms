@@ -117,4 +117,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1920-build-array-from-permutation) |
 | [3925-concatenate-array-with-reverse](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3925-concatenate-array-with-reverse) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
