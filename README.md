@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3925-concatenate-array-with-reverse](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
