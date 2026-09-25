@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0189-rotate-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1344-angle-between-hands-of-a-clock) |
