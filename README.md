@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0876-middle-of-the-linked-list) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -147,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2000-reverse-prefix-of-word) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
