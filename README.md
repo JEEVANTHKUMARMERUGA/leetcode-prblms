@@ -134,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0100-same-tree) |
 | [0938-range-sum-of-bst](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0100-same-tree) |
 | [0938-range-sum-of-bst](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0100-same-tree) |
 | [0938-range-sum-of-bst](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0938-range-sum-of-bst) |
 ## Design
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
