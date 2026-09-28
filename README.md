@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0387-first-unique-character-in-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2000-reverse-prefix-of-word) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/0046-permutations) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JEEVANTHKUMARMERUGA/leetcode-prblms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
